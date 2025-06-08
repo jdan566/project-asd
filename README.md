@@ -1,1 +1,1 @@
-Program ini memiliki fungsi sebagai program manajemen barang yang menggunakan struktur data tree, dimana data disusun dengan prinsip Binary Search Tree (BST). Fitur utama program yaitu menambah data, mencari data, menampilkan data, menghapus data, dan memperbarui data.
+Program ini memiliki fungsi sebagai program manajemen barang yang menggunakan struktur data tree, dimana data disusun dengan prinsip Binary Search Tree (BST). Fitur utama program yaitu menambah data, mencari data, menampilkan data, menghapus data, memperbarui data, dan menutup program.
